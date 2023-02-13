@@ -11,7 +11,7 @@
 
 ## Ⅲ. 포트폴리오
 ### 1. 프로젝트
-### 📄 내 방, 어때 
+### 📄 내 방, 어디 ?  
 - [→ version1](https://github.com/rlawhdgur/AI_project_1)
 - [→ version2](https://github.com/rlawhdgur/ai_project_2)
 - 사용 언어 : Python
