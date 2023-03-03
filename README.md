@@ -14,6 +14,8 @@
 ### 📄 내 방, 어디 ?  
 - [→ version1](https://github.com/rlawhdgur/AI_project_1)
 - [→ version2](https://github.com/rlawhdgur/ai_project_2)
+- 👉 [발표영상링크](https://www.youtube.com/watch?v=RbN39pUA1Ww)
+- 👉 [데모영상링크](https://www.youtube.com/watch?v=j3rdthS7PM8)
 - 사용 언어 : Python
 - 작업툴 : VS Code
 - 인원 : 7명
