@@ -30,7 +30,7 @@
 ***
 
 ### 2. 프로젝트
-### 💿 음악 커뮤니티
+### 💿 Last Carnival
 
 - 사용 언어 : JAVA
 - 작업 툴 : Eclipse, VS code
