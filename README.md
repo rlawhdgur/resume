@@ -35,7 +35,7 @@
 - 사용 언어 : Java, JavaScript, HTML, CSS, jQuery(ajax)
 - Framework : MyBatis, Spring Security, OAuth2, Spring Boot(v.2.7.9)
 - 작업 툴 : Eclipse, VS code
-- 인원 : 4명
+- 인원 : 8명
 - 기간 : 2023-03-22 - 2023-04-12
 - 내용
   - **LastFM**에서 Open API를 이용해 해외음원차트에 대한 커뮤니티 (주제 선정 자유🔥)
