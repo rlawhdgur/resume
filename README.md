@@ -31,14 +31,21 @@
 
 ### 2. 프로젝트
 ### 💿 Last Carnival
-- [→ 프로젝트 링크]()
-- 사용 언어 : JAVA
+- [→ 프로젝트 링크](https://github.com/rlawhdgur/java_python_ai_01)
+- 사용 언어 : Java, JavaScript, HTML, CSS, jQuery(ajax)
+- Framework : MyBatis, Spring Security, OAuth2, Spring Boot(v.2.7.9)
 - 작업 툴 : Eclipse, VS code
-- 인원 : 7명
-- 기간 : 
+- 인원 : 4명
+- 기간 : 2023-03-22 - 2023-04-12
 - 내용
-  - **LastFM**에서 Open API를 가져와 노래에 대한 커뮤니티. (주제 선정 자유❗)
+  - **LastFM**에서 Open API를 이용해 해외음원차트에 대한 커뮤니티 (주제 선정 자유❗)
 - 주제 선정 배경
-  - 
-    - 
-- 기여 : 로그인/회원가입 페이지 & 아이디/비밀번호 찾기 & 개인정보수정 구현 코드 작성
+  - 대부분의 국내 음원 사이트들은 해외 음원을 다루지 않고 있음
+    - 커뮤니티의 필요성
+- 주요 업무 : Spring Boot 프레임 워크를 이용한 웹 개발 구현 코드 작성
+  - 로그인 / 회원가입 
+  - 이메일, 비밀번호 변경
+  - 아이디 / 비밀번호 찾기
+  - 유효성 검사
+***
+***
