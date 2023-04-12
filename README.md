@@ -32,6 +32,7 @@
 ### 2. 프로젝트
 ### 💿 Last Carnival
 - [→ 프로젝트 링크](https://github.com/rlawhdgur/java_python_ai_01)
+- 👉 [발표영상링크](https://www.youtube.com/watch?v=4hcJi-qpkdU)
 - 사용 언어 : Java, JavaScript, HTML, CSS, jQuery(ajax)
 - Framework : MyBatis, Spring Security, OAuth2, Spring Boot(v.2.7.9)
 - 작업 툴 : Eclipse, VS code
